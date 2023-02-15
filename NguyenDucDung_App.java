@@ -1,4 +1,3 @@
-package NguyenDucDung_Project;
 
 public class NguyenDucDung_App 
 {
