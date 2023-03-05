@@ -1,5 +1,3 @@
-package lab2;
-
 import java.util.Scanner;
 public class bai2_lab2 {
 	public static void main(String[] arg) {
